@@ -1,0 +1,7 @@
+.edgeprofile/
+.edgep/
+.edgep2/
+.edgep3/
+*.zip
+.DS_Store
+Thumbs.db
